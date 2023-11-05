@@ -1,0 +1,24 @@
+/* Custom styles for the header */
+header {
+    background-color: #f7dc6f; /* A SpongeBob yellow color */
+    padding: 20px;
+}
+
+/* Custom styles for the header image */
+header img {
+    max-width: 100%;
+}
+
+/* Custom styles for the main content sections */
+.bg-yellow-100 {
+    background-color: #fff9c0; /* Light yellow */
+}
+
+.bg-blue-100 {
+    background-color: #d0e8f4; /* Light blue */
+}
+
+/* Custom styles for text elements */
+h1, h2, p {
+    font-family: 'SpongeBobFont', sans-serif; /* You can use a custom font if available */
+}
