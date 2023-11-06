@@ -41,14 +41,15 @@
 - The result of both should look similar to the ones below included in the Flask app code:
   <img width="816" alt="Screenshot 2023-11-05 at 9 10 22 PM 1" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/247cc416-7984-4c29-b09b-4cc8418c3519">
 
-- Then after making all the necessary folders and changes, ensured that I could deploy it locally in the Google Shell Environment & that my preview in Tailwind Play also looked good:
+- Then after making all the necessary folders and changes and after following the Tailwind official document of directions on their website, ensured that I could deploy it locally in the Google Shell Environment & that my preview in Tailwind Play also looked good:
 [Screen Recording 2023-11-05 at 3.30.47 PM.zip](https://github.com/angeliki-tzanou/flask_5_tailwind/files/13261871/Screen.Recording.2023-11-05.at.3.30.47.PM.zip)
 
 <img width="1000" alt="Screenshot 2023-11-05 at 3 30 08 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/9f27fe85-177c-4224-bcca-35413eb7dbe4">
 <img width="1000" alt="Screenshot 2023-11-05 at 4 27 37 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/c434018d-05c1-4ccc-825a-8286a75ebd39">
 
 ## 4. Cloud Deployment: Azure
-
+- First went into Google Shell and ensured that Azure was installed and could properly login
+- In order to do so
 
 
 
