@@ -34,6 +34,8 @@
 - In order to insert the video and the picture I wanted to include in the code inside my ```index.html``` file I had to create the url using Azure.
 - I went back into Azure and navigated in the tab created before that had the CDN endpoint instance open with the endpoint hostname displayed and opened another tab with my container instance open and the video and image i had uploaded displayed
 - From there I used the endpoint hostname and completed the URL with the end of the video's URL, and repeated that with the image as well, creating 2 new ones as shown below:
+  <img width="1000" alt="Screenshot 2023-11-05 at 9 11 53 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/644bcbf1-8b22-461c-8a3a-ee3cd6a49e9c">
+
   <img width="1000" alt="Screenshot 2023-11-05 at 9 07 56 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/e4406698-13b0-448f-98eb-062266f6a27d">
   
 - The result of both should look similar to the ones below included in the Flask app code:
