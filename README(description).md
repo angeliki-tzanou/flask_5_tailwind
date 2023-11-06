@@ -18,6 +18,9 @@
   
     <img width="800" alt="Screenshot 2023-11-05 at 8 48 56 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/a222cafd-0ab6-4793-a059-edab044f7f67">
 
-- Then we would click on the containers section in Azure in which we are going to create a new container instance.
+- Then we would click on the containers section in Azure in which we are going to create a new container instance and the storage account setup should look something like this:
   
 <img width="900" alt="Screenshot 2023-11-05 at 8 51 34 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/8abd825d-1b63-49ff-85b6-513a49dbd266">
+
+- Inside this storage account we navigated to Containers under Data Storage on the left menu tab, and created a container instance, allowing anonymous read access to containers and blobs:
+  <img width="600" alt="Screenshot 2023-11-05 at 8 54 29 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/e6e7a941-b956-4690-bfa4-965f8e3e3d37">
