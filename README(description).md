@@ -54,7 +54,8 @@
   <img width="600" alt="Screenshot 2023-11-05 at 4 40 33 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/5a207663-02ea-4b32-a433-ac7dbb84bdcd">
 
 - Then I used the following command in order to login and link my environment to my Azure ```az login --use-device-code``` . A message of authentication popped up and chose the account I wanted to use. It was successfully linked since the message below appeared:
-  <img width="600" alt="Screenshot 2023-11-05 at 5 36 24 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/b87a3aec-bbe8-4843-8ae9-c6ab53c162b0">
+  
+  <img width="300" alt="Screenshot 2023-11-05 at 5 36 24 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/b87a3aec-bbe8-4843-8ae9-c6ab53c162b0">
 
 
 
