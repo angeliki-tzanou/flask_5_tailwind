@@ -47,6 +47,7 @@
 <img width="1000" alt="Screenshot 2023-11-05 at 3 30 08 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/9f27fe85-177c-4224-bcca-35413eb7dbe4">
 <img width="1000" alt="Screenshot 2023-11-05 at 4 27 37 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/c434018d-05c1-4ccc-825a-8286a75ebd39">
 
+## 4. Cloud Deployment: Azure
 
 
 
