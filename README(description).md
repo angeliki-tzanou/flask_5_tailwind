@@ -27,3 +27,18 @@
 
 - After creating the container we double-click on it and we are in a "dropbox" like platform format, in which we can upload the images or videos that we want to store and then later on include in our flask app: (in this case a picture and video was uploaded)
 <img width="800" alt="Screenshot 2023-11-05 at 8 56 03 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/19f72688-0338-484f-8c9c-c9ed316d206d">
+
+## 3. Creating the Flask App in this case in Google Shell:
+- First, I navigated into the Google shell environment and cloned my repo that wanted to store my app and its data in.
+- Then after doing so I created folders necessary for the setup of my Flask app such as ```requirements.txt``` file, a templates folder (in which I included my simple ```index.html``` folder that included all of my tailwind style codes for my apps format)
+- In order to insert the video and the picture I wanted to include in the code inside my ```index.html``` file I had to create the url using Azure.
+- I went back into Azure 
+
+
+- Then after making all the necessary folders and changes, ensured that I can deploy it locally in the Google Shell Environment & that my preview in Tailwind Play also looks good:
+
+
+
+
+
+
