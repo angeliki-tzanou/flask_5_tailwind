@@ -59,6 +59,18 @@
 - The next step was to name my application and connect it to the Azure resource group I had chosen by typing in my terminal the following:
   ```az webapp up --resource-group <groupname> --name <app-name> --runtime <PYTHON:3.9> --sku <B1>```
 <img width="1000" alt="Screenshot 2023-11-05 at 5 51 18 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/b87f2632-a07d-4dbd-b944-4d984651dd47">
+- After allowing the command above to complete in the Google shell environment I moved into Azure to App Services where my flask application appeared after the Google Shell comands:
+<img width="800" alt="Screenshot 2023-11-05 at 9 41 03 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/69b23e5f-6ae7-4b01-a167-4c3975f76ee9">
+
+- Inside my web app in azure I was able to track its deployment process, which when completed, using the Default domain link provided I could access my app, indicating successful deployment through Azure as shown below:
+
+<img width="1000" alt="Screenshot 2023-11-05 at 5 54 34 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/71b89e9a-50be-4359-b456-2f640b21a26b">
+
+<img width="1000" alt="Screenshot 2023-11-05 at 5 54 16 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/51246a9b-267b-4c80-a704-5fe78f9343d5">
+
+
+
+
 
 
 
