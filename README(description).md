@@ -49,7 +49,7 @@
 
 ## 4. Cloud Deployment: Azure
 - First went into Google Shell and ensured that Azure was installed and could properly login
-- In order to install in the google shell environment I used the following command ``` -sL https://aka.ms/InstallAzureCLIDeb | sudo bash```.
+- In order to install in the google shell environment I used the following command ``` curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash```.
 - Then after completing that step I ran in my terminal a simple ```az``` command to make sure it was installed properly
   <img width="600" alt="Screenshot 2023-11-05 at 4 40 33 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/5a207663-02ea-4b32-a433-ac7dbb84bdcd">
 
