@@ -69,7 +69,7 @@
 <img width="1000" alt="Screenshot 2023-11-05 at 5 54 16 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/51246a9b-267b-4c80-a704-5fe78f9343d5">
 
 
-
+- Succesful Deployment!
 
 
 
