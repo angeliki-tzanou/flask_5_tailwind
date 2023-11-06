@@ -58,7 +58,7 @@
   <img width="300" alt="Screenshot 2023-11-05 at 5 36 24 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/b87a3aec-bbe8-4843-8ae9-c6ab53c162b0">
 - The next step was to name my application and connect it to the Azure resource group I had chosen by typing in my terminal the following:
   ```az webapp up --resource-group <groupname> --name <app-name> --runtime <PYTHON:3.9> --sku <B1>```
-  <img width="300" alt="Screenshot 2023-11-05 at 5 49 51 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/74a97c18-4bfe-49ef-a629-631d22acea60">
+  <img width="800" alt="Screenshot 2023-11-05 at 5 49 51 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/74a97c18-4bfe-49ef-a629-631d22acea60">
 
 
 
