@@ -32,7 +32,13 @@
 - First, I navigated into the Google shell environment and cloned my repo that wanted to store my app and its data in.
 - Then after doing so I created folders necessary for the setup of my Flask app such as ```requirements.txt``` file, a templates folder (in which I included my simple ```index.html``` folder that included all of my tailwind style codes for my apps format)
 - In order to insert the video and the picture I wanted to include in the code inside my ```index.html``` file I had to create the url using Azure.
-- I went back into Azure 
+- I went back into Azure and navigated in the tab created before that had the CDN endpoint instance open with the endpoint hostname displayed and opened another tab with my container instance open and the video and image i had uploaded displayed
+- From there I used the endpoint hostname and completed the URL with the end of the video's URL, and repeated that with the image as well, creating 2 new ones as shown below:
+  <img width="1000" alt="Screenshot 2023-11-05 at 9 07 56 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/e4406698-13b0-448f-98eb-062266f6a27d">
+  
+- The result of both should look similar to the ones below included in the Flask app code:
+  <img width="816" alt="Screenshot 2023-11-05 at 9 10 22 PM 1" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/247cc416-7984-4c29-b09b-4cc8418c3519">
+
 
 
 - Then after making all the necessary folders and changes, ensured that I can deploy it locally in the Google Shell Environment & that my preview in Tailwind Play also looks good:
