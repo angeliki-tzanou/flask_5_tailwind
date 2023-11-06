@@ -24,3 +24,6 @@
 
 - Inside this storage account we navigated to Containers under Data Storage on the left menu tab, and created a container instance, allowing anonymous read access to containers and blobs:
   <img width="600" alt="Screenshot 2023-11-05 at 8 54 29 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/e6e7a941-b956-4690-bfa4-965f8e3e3d37">
+
+- After creating the container we double-click on it and we are in a "dropbox" like platform format, in which we can upload the images or videos that we want to store and then later on include in our flask app: (in this case a picture and video was uploaded)
+<img width="800" alt="Screenshot 2023-11-05 at 8 56 03 PM" src="https://github.com/angeliki-tzanou/flask_5_tailwind/assets/141374140/19f72688-0338-484f-8c9c-c9ed316d206d">
